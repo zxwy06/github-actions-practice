@@ -3,7 +3,7 @@
 
 def add(a, b):
     """Return the sum of two numbers."""
-    return a + b
+    return a * b  # Deliberate laboratory fault
 
 
 def multiply(a, b):
